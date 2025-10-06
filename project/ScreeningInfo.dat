@@ -1,0 +1,11 @@
+screening_id movie_id hall capacity booked status
+101 7001 1 200 150 Active
+102 7002 2 180 160 Active
+103 7003 1 200 170 Active
+104 7004 3 150 120 Active
+105 7005 2 180 180 Active
+106 7006 3 150 140 Active
+107 7007 3 150 140 Active
+108 7007 1 200 46 Active
+109 7007 4 100 56 Active
+110 7010 2 180 100 Active

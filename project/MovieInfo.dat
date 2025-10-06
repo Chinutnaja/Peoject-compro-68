@@ -1,0 +1,9 @@
+movie_id status duration_min ticket_price title genre rating created_at updated_at
+7001 Active 120 220.00 Tha_Rae:_The_Exorcist Horror 18+ 2025-09-10 2025-10-02
+7002 Active 118 220.00 Death_Whisperer_3 Horror 18+ 2025-09-10 2025-10-10
+7003 Active 125 220.00 The_Red_Envelope Horror 18+ 2025-09-10 2025-10-10
+7004 Active 110 200.00 Bangkok_Love_Story Romance 15+ 2025-09-10 2025-10-10
+7005 Deleted 130 230.00 Warrior_of_Siam Action 13+ 2025-09-10 2025-10-01
+7006 Active 183 220.00 Avenger Action G 2025-10-01 2025-10-01
+7007 Active 160 220.00 Super_man Action G 2025-10-01 2025-10-01
+7010 Active 150 280.00 Avatar Adventure G 2025-10-02 2025-10-02

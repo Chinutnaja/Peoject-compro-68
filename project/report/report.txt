@@ -1,0 +1,40 @@
+Cinema Backend Report
+Generated at: 2025-10-06 03:46:01
+
+Summary
+- Total Movies      : 8
+- Active Movies     : 7
+- Deleted Movies    : 1
+- Total Screenings  : 10
+- Total Capacity    : 1690
+- Total Booked      : 1262
+- Total Revenue     : 283,040.00 THB
+- Avg Fill Rate     : 74.67 %
+
+Ticket Price Statistics (Active movies)
+- Min : 200.00
+- Max : 280.00
+- Avg : 225.71
+
+Movies by Genre (Active movies)
+- Horror  : 3 เรื่อง
+- Romance  : 1 เรื่อง
+- Action  : 2 เรื่อง
+- Adventure  : 1 เรื่อง
+
+Table A — Active screenings
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| ScreeningID | MovieID | Title                  | Genre    | Rating | Hall | duration(min)     | Capacity | Booked | Ticket Price |Revenue(THB/day)|Status    |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 101         | 7001    | Tha Rae: The Exorcist  | Horror   | 18+    | 1    | 120              | 200      | 150    |      220.00 |      33,000.00 | Active   |
+| 102         | 7002    | Death Whisperer 3      | Horror   | 18+    | 2    | 118              | 180      | 160    |      220.00 |      35,200.00 | Active   |
+| 103         | 7003    | The Red Envelope       | Horror   | 18+    | 1    | 125              | 200      | 170    |      220.00 |      37,400.00 | Active   |
+| 104         | 7004    | Bangkok Love Story     | Romance  | 15+    | 3    | 110              | 150      | 120    |      200.00 |      24,000.00 | Active   |
+| 105         | 7005    | Warrior of Siam        | Action   | 13+    | 2    | 130              | 180      | 180    |      230.00 |      41,400.00 | Deleted  |
+| 106         | 7006    | Avenger                | Action   | G      | 3    | 183              | 150      | 140    |      220.00 |      30,800.00 | Active   |
+| 107         | 7007    | Super man              | Action   | G      | 3    | 160              | 150      | 140    |      220.00 |      30,800.00 | Active   |
+| 108         | 7007    | Super man              | Action   | G      | 1    | 160              | 200      | 46     |      220.00 |      10,120.00 | Active   |
+| 109         | 7007    | Super man              | Action   | G      | 4    | 160              | 100      | 56     |      220.00 |      12,320.00 | Active   |
+| 110         | 7010    | Avatar                 | Adventur | G      | 2    | 150              | 180      | 100    |      280.00 |      28,000.00 | Active   |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
